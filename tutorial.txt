@@ -1,0 +1,17 @@
+#Practice
+1. Create an folder: myproject
+2. In myproject, do "git init"
+3. create files
+4. Check status using "git status"
+5. A commit is a record of what files you have changed since the last time you made a commit.To add a file to a commit, you first need to add it to the staging environment, by doing "git add <filename>"
+6. git commit -m "Your message about the commit"
+
+7. Branch 
+8. After first commit, a Branch master will show up when running git branch
+9. Use git branch <new-branch> to creat a new branch
+10. Use git checkout <branch> to switch among branches
+
+8. If you only want to keep track of your code locally, you don't need to use GitHub. But if you want to work with a team, you can use GitHub to collaboratively modify the project's code. 
+
+
+
